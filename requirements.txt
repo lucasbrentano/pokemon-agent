@@ -1,0 +1,24 @@
+# --- Interface e Web App ---
+streamlit
+
+# --- Ecossistema LangChain para Lógica da IA ---
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+
+# --- Banco de Dados Vetorial ---
+# A biblioteca da LangChain usa o chromadb por baixo dos panos
+chromadb
+
+# --- Acesso a API e Web Scraping ---
+pokebase
+requests
+beautifulsoup4
+
+# --- Utilitários ---
+# Usado em launch.py para criar o túnel público
+pyngrok
+
+# Pydantic é usado para validação de dados nos modelos do agent.py
+pydantic
